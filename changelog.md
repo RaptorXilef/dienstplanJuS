@@ -1,5 +1,11 @@
-# v.0.2.2.0
+# v.0.2.2.1
 ### in Arbeit
+### Dokumentation
+
+
+# v.0.2.2.0
+### Fehlerbehebung im Datenblatt "Zeiterfassung"
+### Neue Funktion im Datenblatt "Zeiterfassung" -> Manuelles Eintragen von Bemerkungen
 ### Dokumentation
 
 

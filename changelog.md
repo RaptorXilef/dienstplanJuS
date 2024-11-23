@@ -1,6 +1,31 @@
-# v.0.2.2.1
+# v.0.2.2.2
 ### in Arbeit
 ### Dokumentation
+
+
+# v.0.2.2.1
+### Dokumentation (teilweise abgeschlossen)
+Fertige Dokumentationen: 
+* Vorwort / Hinweis
+* Wie wechseln Sie die Tabellenblätter effektiv
+* Zoomen, Ansicht vergrößern
+* Spezielle Einstellungen in Excel für langsame PCs (nicht beim VPN relevant):
+* Dropdown
+* Angaben zur Einrichtung
+* Berechnung der Pausenzeiten Individualisieren
+* Individualisieren der angezeigten Daten
+* Individualisieren der Druckansicht
+* Kontaktdaten
+* Hinweis zu zukünftige Updates
+* Los geht’s
+  * Stammdaten
+  * Mitarbeiter im Dienstplan anlegen, löschen, oder Zeile ändern
+  * Mitarbeiter in der Zeiterfassung auswählen
+  * Geplante Arbeitszeit eines einzelnen Mitarbeiters ausgeben und als PDF/Bild speichern/versenden"						
+						
+* FAQ						
+  * Schüler anlegen
+  * Minderjährigen Mitarbeiter anlegen
 
 
 # v.0.2.2.0

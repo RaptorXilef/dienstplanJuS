@@ -1,6 +1,11 @@
-# v.0.3.0.1
+# v.0.3.0.2
 ### in Arbeit
 ### Dokumentation
+
+
+# v.0.3.0.1
+### Optimirung der Pausenberechnung
+### Fehlerkorrektur im Einstellungsmenü - "Anzeige und Druck"
 
 
 # v.0.3.0.0 - Automatische Pausenberechnung bei Arbeitsunterbrechung

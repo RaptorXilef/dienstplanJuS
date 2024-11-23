@@ -1,6 +1,14 @@
-# v.0.3.0.2
-### in Arbeit
-### Dokumentation
+# v.0.3.0.5
+### in Arbeit (umfassende Funktionsprüfung)
+
+
+# v.0.3.0.4
+### Formeloptimierungen auf einfacher Ebene
+### Teilweise Formeloptimierung auf XML-Ebene
+### Berechnungsoptimierung auf XML-Ebene
+### Austausch etlicher Hilfs-Formeln mit Fix-Werten
+### Setzen des Formelschutzes
+### Begin der vollständigen Prüfung aller Formeln auf Funktionalität und Leistung
 
 
 # v.0.3.0.3

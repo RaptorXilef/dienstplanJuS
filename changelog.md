@@ -3,6 +3,23 @@
 ### Dokumentation
 
 
+# v.0.3.0.3
+### Fehlende Wochendatenblätter angelegt
+### Kleinere Formeloptimierungen
+### Löschen nicht benötigter Formatierungen, Textausrichtungen und Zellen
+
+
+# v.0.3.0.2
+### Dokumentation (abgeschlossen)
+Fertige Dokumentationen: 
+* FAQ						
+  * Wochenarbeitszeit ändern
+  * Zusätzliche Zeile für weitere Arbeitszeit einblenden (Geteilte Arbeitszeit)
+  * Eine berechnete Pause manuell wieder entfernen (ohne Pause bei anderer Dienstzeitunterbrechung)
+  * Manuelle Mehrzeit-Korrektur
+  * Anzahl der Arbeitstage in der Woche manuell ändern
+
+
 # v.0.3.0.1
 ### Optimirung der Pausenberechnung
 ### Fehlerkorrektur im Einstellungsmenü - "Anzeige und Druck"

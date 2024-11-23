@@ -1,6 +1,46 @@
-# v.0.2.2.2
+# v.0.3.0.1
 ### in Arbeit
 ### Dokumentation
+
+
+# v.0.3.0.0 - Automatische Pausenberechnung bei Arbeitsunterbrechung
+### Große Änderung in der Pausenberechnung
+* Pausen werden nun an eine Arbeitszeitunterbrechung gekoppelt und muss im Fall einer Arbeitszeitunterbrechung nicht mehr manuell geändert werden
+Das heißt:
+* Beispiele bei Volljährigen Mitarbeitern
+  * Arbeitszeit: 6:00 - 12:00 und 12:30 - 16:00
+    * Alt: 30 Minuten Pause
+    * Neu: 0 Minuten Pause
+
+  * Arbeitszeit: 6:00 - 10:00 und 10:30 - 16:00
+    * Alt: 30 Minuten Pause
+    * Neu: 0 Minuten Pause
+
+  * Arbeitszeit: 7:30 - 10:00 und 10:15 - 16:00
+    * Alt: 30 Minuten Pause
+    * Neu: 15 Minuten Pause
+...
+
+
+
+* Beispiele bei Minderjährigen Mitarbeitern
+  * Arbeitszeit: 6:00 - 12:00 und 12:30 - 16:00
+    * Alt: 60 Minuten Pause
+    * Neu: 30 Minuten Pause
+
+  * Arbeitszeit: 6:00 - 10:00 und 10:30 - 14:30
+    * Alt: 60 Minuten Pause
+    * Neu: 30 Minuten Pause
+   
+  * Arbeitszeit: 7:30 - 10:00 und 10:30 - 16:00
+    * Alt: 60 Minuten Pause
+    * Neu: 30 Minuten Pause
+   
+  * Arbeitszeit: 7:30 - 10:00 und 10:15 - 16:00
+    * Alt: 60 Minuten Pause
+    * Neu: 45 Minuten Pause
+...
+
 
 
 # v.0.2.2.1

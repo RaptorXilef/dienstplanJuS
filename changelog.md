@@ -1,5 +1,6 @@
 # v.0.3.0.5
 ### in Arbeit (umfassende Funktionsprüfung)
+### Datei hinzugefügt: "Dienstplan_2025_v.0.3.0.5_Update-Suche .ps1" (Add "Check for Updates" PowerShell Script)
 
 
 # v.0.3.0.4

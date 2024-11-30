@@ -1,3 +1,15 @@
+# v.0.3.2.5 und v.0.3.2.4
+#13 Der Status jugendlich wird nicht in die neue Woche übernommen - feature eingefügt
+
+
+# v.0.3.2.3
+#11 Leere Arbeitstage verursachen Minus-Stunden - bug behoben
+#12 Wenn Mitarbeiter Jugendlich, Fehler #Name bei Pause und Arbeitszeit (nur im VPN) - bug behoben
+
+# v.0.3.2.2
+#10 Die in der Korrekturzeile eingetragenen Werte innerhalb der Wochen zeigen keinerlei Wirkung - bug behoben
+
+
 # v.0.3.2.1
 #9 Die Werte der Korrekturzeile in der Zeiterfassung werden als Fehler #Wert ausgegeben - bug behoben
 

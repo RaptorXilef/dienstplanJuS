@@ -1,3 +1,7 @@
+# v.0.3.1.3
+#7 Anzeigefehler Überstunden - bug behoben
+
+
 # v.0.3.1.2
 #6 Die Eingabe negativer Minuten in der manuellen Pausenkorrektur ist nicht möglich - bug behoben
 #5 Manuelle Pausenkorrektur wird nicht berücksichtigt - bug behoben

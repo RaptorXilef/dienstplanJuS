@@ -1,3 +1,7 @@
+# v.0.3.2.1
+#9 Die Werte der Korrekturzeile in der Zeiterfassung werden als Fehler #Wert ausgegeben - bug behoben
+
+
 # v.0.3.2.0
 #8 Die Zeiterfassung erhält keine Daten - bug behoben
 

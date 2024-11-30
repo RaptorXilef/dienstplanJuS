@@ -1,3 +1,8 @@
+# v.0.3.1.2
+#6 Die Eingabe negativer Minuten in der manuellen Pausenkorrektur ist nicht möglich - bug behoben
+#5 Manuelle Pausenkorrektur wird nicht berücksichtigt - bug behoben
+
+
 # v.0.3.1.1
 ### in Arbeit (umfassende Funktionsprüfung)
 ### Leistungsberbesserungen und Bug-Fixes im Bereich "Bedingte Formatierungen" 

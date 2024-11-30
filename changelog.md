@@ -1,7 +1,12 @@
+# v.0.3.1.1
+### in Arbeit (umfassende Funktionsprüfung)
+### Leistungsberbesserungen und Bug-Fixes im Bereich "Bedingte Formatierungen" 
+
+
 # v.0.3.1.0
 ### in Arbeit (umfassende Funktionsprüfung)
-### Berechnung der SOLL Stunden neu aufgebaut. 
-* Fehler bei der Erkennung von Urlaubstagen beseiting
+### Berechnung der SOLL Stunden neu aufgebaut.
+* Fehler bei der Erkennung von Urlaubstagen beseiting (#4)
 * Berechnung der Mehrstunden bei Urlaubstagen korrigiert
 * Formel gekürzt und Berechnung dadurch beschleunigt
 ### Anleitung auf die Excelversion von JuS angepasst. (Für: Spezielle Einstellungen in Excel für langsame PCs (auch im VPN hilfreich))

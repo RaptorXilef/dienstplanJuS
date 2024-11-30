@@ -1,3 +1,11 @@
+# v.0.3.0.6
+### in Arbeit (umfassende Funktionsprüfung)
+### Scripte zur automatischen Updateprüfung wieder entfernt. Aus sicherheitsgründen ist das Ausführen solcher Skripte blokiert.
+### Mehrere kleinere Bugs entdeckt. Beseitigung folgt.
+### Großer Bug entdeckt: Hat jemand die gesammte Woche Urlaub, tauchen plötzlich unerwartet viele Mehrstunden auf. Beseitigung folgt.
+### Einige Abschnitte im FAQ müssen noch einmal überarbeitet werden um die Erklärungen eindeutiger zu gestallten.
+
+
 # v.0.3.0.5
 ### in Arbeit (umfassende Funktionsprüfung)
 ### Datei hinzugefügt: "Dienstplan_2025_v.0.3.0.5_Update-Suche .ps1" (Add "Check for Updates" PowerShell Script)

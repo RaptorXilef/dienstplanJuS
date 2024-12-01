@@ -1,3 +1,11 @@
+# v.0.3.2.6
+#19 Formatierungen laufen nur, wenn Auslöser allein bug enhancement
+#18 Bedingte Begriffsänderungen in der Zeiterfassung fehlen bug enhancement
+#17 Auslöser fehlen für Entwicklungsgespräch bug enhancement
+#16 Auslöser Fehlen für Team-Fortbildung bug enhancement
+#15 Einige auslösende Formeln für Krank fehlen bug enhancement
+
+
 # v.0.3.2.5 und v.0.3.2.4
 #13 Der Status jugendlich wird nicht in die neue Woche übernommen - feature eingefügt
 

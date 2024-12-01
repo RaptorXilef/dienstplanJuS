@@ -1,3 +1,8 @@
+# v.0.3.2.7 rc
+* #14 Im VPN werden Änderungen nicht durch Speichern berechnet
+* Arbeitsmappenschutz aufgebaut um versehentliche Änderungen an den Formelkn zu verhindern
+
+
 # v.0.3.2.7
 * #19 Formatierungen laufen nur, wenn Auslöser allein bug enhancement
 

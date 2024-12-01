@@ -1,4 +1,4 @@
-# v.0.3.2.7 rc
+# v.0.3.2.8 rc
 * #14 Im VPN werden Änderungen nicht durch Speichern berechnet
 * Arbeitsmappenschutz aufgebaut um versehentliche Änderungen an den Formelkn zu verhindern
 

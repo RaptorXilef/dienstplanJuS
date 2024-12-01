@@ -1,3 +1,7 @@
+# v.1.0.0.0
+* Testdurchgang war erfolgreich, Fertig für die Freigabe
+
+
 # v.0.3.2.8 rc
 * #14 Im VPN werden Änderungen nicht durch Speichern berechnet
 * Arbeitsmappenschutz aufgebaut um versehentliche Änderungen an den Formelkn zu verhindern

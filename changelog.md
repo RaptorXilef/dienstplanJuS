@@ -1,38 +1,38 @@
 # v.0.3.2.6
-#19 Formatierungen laufen nur, wenn Auslöser allein bug enhancement
-#18 Bedingte Begriffsänderungen in der Zeiterfassung fehlen bug enhancement
-#17 Auslöser fehlen für Entwicklungsgespräch bug enhancement
-#16 Auslöser Fehlen für Team-Fortbildung bug enhancement
-#15 Einige auslösende Formeln für Krank fehlen bug enhancement
+* #19 Formatierungen laufen nur, wenn Auslöser allein bug enhancement
+* #18 Bedingte Begriffsänderungen in der Zeiterfassung fehlen bug enhancement
+* #17 Auslöser fehlen für Entwicklungsgespräch bug enhancement
+* #16 Auslöser Fehlen für Team-Fortbildung bug enhancement
+* #15 Einige auslösende Formeln für Krank fehlen bug enhancement
 
 
 # v.0.3.2.5 und v.0.3.2.4
-#13 Der Status jugendlich wird nicht in die neue Woche übernommen - feature eingefügt
+* #13 Der Status jugendlich wird nicht in die neue Woche übernommen - feature eingefügt
 
 
 # v.0.3.2.3
-#11 Leere Arbeitstage verursachen Minus-Stunden - bug behoben
-#12 Wenn Mitarbeiter Jugendlich, Fehler #Name bei Pause und Arbeitszeit (nur im VPN) - bug behoben
+* #11 Leere Arbeitstage verursachen Minus-Stunden - bug behoben
+* #12 Wenn Mitarbeiter Jugendlich, Fehler #Name bei Pause und Arbeitszeit (nur im VPN) - bug behoben
 
 # v.0.3.2.2
-#10 Die in der Korrekturzeile eingetragenen Werte innerhalb der Wochen zeigen keinerlei Wirkung - bug behoben
+* #10 Die in der Korrekturzeile eingetragenen Werte innerhalb der Wochen zeigen keinerlei Wirkung - bug behoben
 
 
 # v.0.3.2.1
-#9 Die Werte der Korrekturzeile in der Zeiterfassung werden als Fehler #Wert ausgegeben - bug behoben
+* #9 Die Werte der Korrekturzeile in der Zeiterfassung werden als Fehler #Wert ausgegeben - bug behoben
 
 
 # v.0.3.2.0
-#8 Die Zeiterfassung erhält keine Daten - bug behoben
+* #8 Die Zeiterfassung erhält keine Daten - bug behoben
 
 
 # v.0.3.1.3
-#7 Anzeigefehler Überstunden - bug behoben
+* #7 Anzeigefehler Überstunden - bug behoben
 
 
 # v.0.3.1.2
-#6 Die Eingabe negativer Minuten in der manuellen Pausenkorrektur ist nicht möglich - bug behoben
-#5 Manuelle Pausenkorrektur wird nicht berücksichtigt - bug behoben
+* #6 Die Eingabe negativer Minuten in der manuellen Pausenkorrektur ist nicht möglich - bug behoben
+* #5 Manuelle Pausenkorrektur wird nicht berücksichtigt - bug behoben
 
 
 # v.0.3.1.1

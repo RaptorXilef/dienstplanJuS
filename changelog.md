@@ -1,3 +1,7 @@
+# v.0.3.2.7
+* #19 Formatierungen laufen nur, wenn Auslöser allein bug enhancement
+
+
 # v.0.3.2.6
 * #19 Formatierungen laufen nur, wenn Auslöser allein bug enhancement
 * #18 Bedingte Begriffsänderungen in der Zeiterfassung fehlen bug enhancement
